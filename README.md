@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AshrazRashid
 - 👀 I’m interested in React Native, Flutter,Node,Python
 - 🌱 I’m currently learning Node
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on React Native libraries
 - 📫 How to reach me ashraz.developer@gmail.com
 
 <!---
