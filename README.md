@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Node
 - 💞️ I’m looking to collaborate on React Native libraries
 - 📫 How to reach me ashraz.developer@gmail.com
-- 📧   Please contact me: [linkedin.com/in/ashrazrashid](https://www.linkedin.com/in/ashrazrashid/)
+- 📧   Please contact me: https://www.linkedin.com/in/ashrazrashid/
 
 <!---
 AshrazRashid/AshrazRashid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
