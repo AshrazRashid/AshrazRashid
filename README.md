@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AshrazRashid
-- 👀 I’m interested in React Native,Node,Python
+- 👀 I’m interested in React Native, Node, Python, and javascript
 - 🌱 I’m currently learning Node
 - 💞️ I’m looking to collaborate on React Native libraries
 - 📫 How to reach me ashraz.developer@gmail.com
