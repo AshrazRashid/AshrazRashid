@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AshrazRashid
-- 👀 I’m interested in React Native, Flutter, Node, Python, and javascript
+- 👀 I am a passionate developer with professional expertise in React Native, Flutter, Node.js, Python, and JavaScript. I am dedicated to building scalable, efficient, and user-focused applications across various platforms.
 - 🌱 I’m currently learning Node
 - 💞️ I’m looking to collaborate on React Native libraries
 - 📫 How to reach me ashraz.developer@gmail.com
