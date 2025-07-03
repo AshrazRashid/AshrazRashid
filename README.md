@@ -1,10 +1,35 @@
-# 👋 Hi, I’m @AshrazRashid
+# 👋 Hi, I’m Ashraz Rashid (@AshrazRashid)
 
-- 👀 I am a passionate developer with professional expertise in React Native, Flutter, Node.js, Python, and JavaScript. I am dedicated to building scalable, efficient, and user-focused applications across various platforms.
-- 🌱 I’m currently learning Node.js to enhance backend development skills.
-- 💞️ I want to collaborate on creating and improving React Native libraries.
-- 📫 How to reach me: ashraz.developer@gmail.com
-- 📧 Connect with me on LinkedIn: [Ashraz Rashid](https://www.linkedin.com/in/ashrazrashid/)
+I'm a passionate software developer with hands-on experience in building robust, scalable, and user-centric applications. I specialize in **React Native**, **Flutter**, **Node.js**, **Python**, and **JavaScript**, with a strong focus on cross-platform mobile and full-stack solutions.
+
+---
+
+### 🚀 What I Do
+- 🔧 Develop cross-platform mobile apps using React Native and Flutter.
+- 🌐 Build scalable backend services with Node.js and Python.
+- 🧩 Contribute to and maintain open-source React Native libraries.
+- 🧠 Continuously learning and refining my backend architecture skills.
+
+---
+
+### 🌱 Currently Learning
+- Advanced **Node.js** patterns & backend system design to enhance my full-stack proficiency.
+
+---
+
+### 🤝 Let’s Collaborate
+I’m open to:
+- Improving and building **React Native libraries**
+- Contributing to **mobile-first open-source projects**
+- Discussing **mobile architecture** and developer tooling
+
+---
+
+### 📬 Contact Me
+- 📧 Email: [ashraz.developer@gmail.com](mailto:ashraz.developer@gmail.com)
+- 💼 LinkedIn: [Ashraz Rashid](https://www.linkedin.com/in/ashrazrashid/)
+
+---
 
 <!---
 AshrazRashid/AshrazRashid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
