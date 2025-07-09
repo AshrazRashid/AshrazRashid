@@ -18,7 +18,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AshrazRashid&show_icons=true&theme=react&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshrazRashid&layout=compact&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshrazRashid&layout=compact&theme=react&hide=C%23" />
 </p>
 
 ---
