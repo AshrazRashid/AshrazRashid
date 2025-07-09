@@ -1,37 +1,27 @@
-# 👋 Hi, I’m Ashraz Rashid (@AshrazRashid)
+# 👋 Hi, I’m Ashraz Rashid
 
-I'm a passionate software developer with hands-on experience in building robust, scalable, and user-centric applications. I specialize in **React Native**, **Flutter**, **Node.js**, **Python**, and **JavaScript**, with a strong focus on cross-platform mobile and full-stack solutions.
+- 🚀 Mobile Application Developer with 9+ years in software engineering
+- 🧠 Passionate about scalable architecture, clean code, and cross-platform development
+- 📱 Expert in React Native | Learning Flutter | Exploring Backend with Node.js
+- ☁️ Experienced with Firebase, AWS, and modern CI/CD workflows
+- 💡 Open to meaningful collaborations and impactful products
 
----
+## 🛠️ Skills
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### 🚀 What I Do
-- 🔧 Develop cross-platform mobile apps using React Native and Flutter.
-- 🌐 Build scalable backend services with Node.js and Python.
-- 🧩 Contribute to and maintain open-source React Native libraries.
-- 🧠 Continuously learning and refining my backend architecture skills.
+## 📈 GitHub Stats
 
----
-
-### 🌱 Currently Learning
-- Advanced **Node.js** patterns & backend system design to enhance my full-stack proficiency.
-
----
-
-### 🤝 Let’s Collaborate
-I’m open to:
-- Improving and building **React Native libraries**
-- Contributing to **mobile-first open-source projects**
-- Discussing **mobile architecture** and developer tooling
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AshrazRashid&show_icons=true&theme=react&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshrazRashid&layout=compact&theme=react" />
+</p>
 
 ---
 
-### 📬 Contact Me
-- 📧 Email: [ashraz.developer@gmail.com](mailto:ashraz.developer@gmail.com)
-- 💼 LinkedIn: [Ashraz Rashid](https://www.linkedin.com/in/ashrazrashid/)
+> “Build software like you're going to maintain it.”
 
----
-
-<!---
-AshrazRashid/AshrazRashid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
