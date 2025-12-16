@@ -47,7 +47,7 @@
   <a href="https://github.com/AshrazRashid" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-AshrazRashid-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.npmjs.com/~ashrazrashid" target="_blank">
+  <a href="https://www.npmjs.com/~ashraz" target="_blank">
     <img src="https://img.shields.io/badge/NPM-Packages-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   </a>
 </p>
@@ -62,7 +62,7 @@
 SEO Keywords:
 React Native Developer
 Mobile Application Developer
-Cross Platform App Developer
+Cross-Platform App Developer
 React Native Engineer
 Flutter Developer
 JavaScript Developer
