@@ -25,7 +25,7 @@
 - 🛠️ Focused on **developer tooling**, **UI components**, and **mobile productivity utilities**
 - 🤝 Actively maintaining and improving open-source projects
 
-📦 NPM: https://www.npmjs.com/~ashrazrashid
+📦 NPM: https://www.npmjs.com/~ashraz
 
 
 
